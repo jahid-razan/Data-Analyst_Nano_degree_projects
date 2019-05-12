@@ -49,13 +49,13 @@ To follow the steps it is recommended to install Anaconda, a pre-packaged Python
 
 3. `Summary-Data_Story.ipynb` gives a overall summary of the project  that includes the following 
 
- * A. What is the structure of this dataset?
+  * A. What is the structure of this dataset?
 
- * B. What is/are the main feature(s) of interest in the dataset?
+  * B. What is/are the main feature(s) of interest in the dataset?
 
- * C. What features in the dataset do you think will help support your investigation into your feature(s) of interest?
+  * C. What features in the dataset do you think will help support your investigation into your feature(s) of interest?
 
- * D. Univariate, Bivariate and Multivariate Exploration
+  * D. Univariate, Bivariate and Multivariate Exploration
 
 
 
