@@ -74,8 +74,8 @@ To follow the steps it is recommended to install Anaconda, a pre-packaged Python
 
 6. Udacity Data Analyst Nanodegree Course Materials
 
-7.For other general query related to data wrangling [Stackoverflow](https://stackoverflow.com) has been consulted/ 
+7. For other general query related to data wrangling [Stackoverflow](https://stackoverflow.com) has been consulted/ 
 
-8.Storytelling With Data: A Data Visualization Guide for Business Professionals Book by Cole Nussbaumer Knaflic.
+8. Storytelling With Data: A Data Visualization Guide for Business Professionals Book by Cole Nussbaumer Knaflic.
 
 
