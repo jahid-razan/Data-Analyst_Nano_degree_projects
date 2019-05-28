@@ -81,6 +81,6 @@ During the vizualization process certain observations have been made and registe
 
 1. [Tidy data by Hadley Wickham, The Journal of Statistical Software, vol. 59, 2014](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf)
 
-2. Descrition of [Twitter](https://en.wikipedia.org/wiki/Twitter), accesseed on the 29 Jan 2019.
+2. Description of [Twitter](https://en.wikipedia.org/wiki/Twitter), accesseed on the 29 Jan 2019.
 
 2. Course Content : [Udacity Data Analyst Nanodegree](https://eu.udacity.com/course/data-analyst-nanodegree--nd002)
