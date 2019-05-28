@@ -2,7 +2,9 @@
 
 ## 1. Project-1: [Explore Weather Trends](https://github.com/jahid-razan/Data-Analyst_Nano_degree_projects/tree/master/Explore_Weather_Trend)
 
-* In this project, SQL query is used to download data from a database. Data is then exported to CSV and then the CSV data is then analyzed using Excel.  
+In this project-
+
+* SQL query is used to download data from a database. Data is then exported to CSV and then the CSV data is then analyzed using Excel.  
 * Line chart is created to plot the moving average and city’s temperatures (Amsterdam in my case) is compared with the global temperatures. 
 * Observations about the similarities and differences between the world averages and my city’s averages, as well as overall trends are made.
 
